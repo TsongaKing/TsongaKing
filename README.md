@@ -9,6 +9,7 @@ Cloud Security Engineering: Building and securing Azure environments with cuttin
 DevSecOps: Integrating security and automation into development pipelines.
 Data Analysis & Presentation: Leveraging tools like Excel, Access, and PowerPoint to interpret, organize, and present insights for business and IT projects.
 Ethical Hacking & SOC Operations: Enhancing security operations through advanced threat detection and prevention techniques.
+
 🔧 Skills & Tools
 
 Programming: Proficient in Java, with strong problem-solving skills.
@@ -16,6 +17,7 @@ Cloud Expertise: Certified in AWS: Building a Cloud Career and skilled in Azure 
 Networking & Security: Advanced knowledge in Linux systems, Cisco technologies, and cybersecurity frameworks (A+, N+, Security+).
 Project & Data Management: Skilled in analyzing and presenting data for project planning and execution.
 Business Acumen: Knowledgeable in business accounting and IT systems management.
+
 📜 Certifications
 
 AWS: Building a Cloud Career
