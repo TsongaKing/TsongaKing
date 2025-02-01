@@ -5,6 +5,7 @@
 I am an IT professional with a Diploma in Network Systems, a strong foundation in cloud security, and hands-on experience in Azure, DevSecOps, and cybersecurity. My expertise lies in securing cloud infrastructures, automating security workflows, and leveraging data analysis for informed decision-making. My long-term goal is to become a Cloud Security Architect, driving secure and scalable cloud solutions.
 
 💼 Professional Focus
+
 🔹 Cloud Security Engineering – Designing and securing Azure environments using industry best practices.
 🔹 DevSecOps – Automating security integration in CI/CD pipelines.
 🔹 Ethical Hacking & SOC Operations – Advanced threat detection, incident response, and security monitoring.
