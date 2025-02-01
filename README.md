@@ -1,37 +1,38 @@
 👋 Hi there! I'm Phangasasa Muhlaba
 
-🎓 Cloud Security Engineer | DevSecOps Enthusiast
-I am a passionate IT professional with a diploma in Network Systems and certifications that showcase my expertise in cloud technologies, DevOps, and business fundamentals. My journey has equipped me with the skills to design secure, scalable cloud infrastructures, with a particular focus on Azure, and a growing proficiency in data analysis and visualization.
+💻 Cloud Security Engineer | DevSecOps Enthusiast
+
+I am a passionate IT professional with a Diploma in Network Systems, strong cloud security expertise, and hands-on experience in Azure, DevSecOps, and cybersecurity. My journey has equipped me with the skills to design secure, scalable cloud infrastructures, integrate security automation, and leverage data analysis for informed decision-making.
 
 💼 Professional Focus
-
-Cloud Security Engineering: Building and securing Azure environments with cutting-edge technologies.
-DevSecOps: Integrating security and automation into development pipelines.
-Data Analysis & Presentation: Leveraging tools like Excel, Access, and PowerPoint to interpret, organize, and present insights for business and IT projects.
-Ethical Hacking & SOC Operations: Enhancing security operations through advanced threat detection and prevention techniques.
+🔹 Cloud Security Engineering – Designing and securing Azure environments with industry best practices.
+🔹 DevSecOps – Integrating security automation into CI/CD pipelines.
+🔹 Ethical Hacking & SOC Operations – Advanced threat detection, incident response, and security monitoring.
+🔹 Data Analysis & Presentation – Using Excel, Access, and PowerPoint for IT and business insights.
 
 🔧 Skills & Tools
-
-Programming: Proficient in Java, with strong problem-solving skills.
-Cloud Expertise: Certified in AWS: Building a Cloud Career and skilled in Azure fundamentals and administration.
-Networking & Security: Advanced knowledge in Linux systems, Cisco technologies, and cybersecurity frameworks (A+, N+, Security+).
-Project & Data Management: Skilled in analyzing and presenting data for project planning and execution.
-Business Acumen: Knowledgeable in business accounting and IT systems management.
+✅ Programming: Java (Strong problem-solving & backend development)
+✅ Cloud Expertise: Azure (Fundamentals & Administration)
+✅ Networking & Security: Linux, Cisco (CCNA), Security+ (Cybersecurity & threat management)
+✅ Project & Data Management: Business analysis, IT systems management, automation
 
 📜 Certifications
+🏆 AWS: Building a Cloud Career
+🏆 HNG Internship 11: Backend & DevOps Fundamentals
+🏆 FMI: Introduction to Business Accounting
+📌 Currently pursuing additional certifications through HNG Internship 12.
 
-AWS: Building a Cloud Career
-HNG Internship 11: Backend & DevOps
-Fundamentals to ICT
-FMI: Introduction to Business Accounting
-(Currently pursuing additional certifications through HNG Internship 12.)
-🌱 Continuous Learning
-I am committed to refining my skills in Azure, automation, and cybersecurity while further developing expertise in data analysis to support strategic decision-making.
+🌱 Continuous Learning & Interests
+🚀 Automating security workflows to enhance efficiency and resilience
+🔐 Exploring cloud-native security solutions for DevSecOps & SOC operations
+📊 Leveraging data-driven approaches to cybersecurity and IT strategy
 
-✨ Interests
+📂 Projects & GitHub Repositories
+🔗 HNG DevOps Stage 0 Project: Deploying a Static Web Page with NGINX on Azure
+🔗 More projects coming soon!
 
-Designing and implementing secure, efficient cloud architectures.
-Automating workflows to enhance efficiency and security.
-Exploring data-driven approaches to cybersecurity and project management.
-📫 Let’s Connect
-I’m always open to collaboration on meaningful projects and innovations. Together, we can build a more secure and resilient digital future!
+📫 Let’s Connect!
+📧 Email: Phangi38@outlook.com
+💼 LinkedIn: www.linkedin.com/in/phangasasa-muhlaba-6826012b4
+
+🚀 Always open to collaborations, open-source contributions, and cybersecurity discussions!
