@@ -7,8 +7,11 @@ I am an IT professional with a Diploma in Network Systems, a strong foundation i
 💼 Professional Focus
 
 🔹 Cloud Security Engineering – Designing and securing Azure environments using industry best practices.
+
 🔹 DevSecOps – Automating security integration in CI/CD pipelines.
+
 🔹 Ethical Hacking & SOC Operations – Advanced threat detection, incident response, and security monitoring.
+
 🔹 Data Analysis & Presentation – Using Excel, Access, and PowerPoint for IT and business insights.
 
 🔧 Skills & Tools
