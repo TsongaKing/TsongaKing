@@ -30,6 +30,7 @@ I am an IT professional with a Diploma in Network Systems, a strong foundation i
 
 
 📜 Certifications
+
 🏆 AWS: Building a Cloud Career
 
 🏆 HNG Internship 11 – Backend & DevOps Fundamentals
