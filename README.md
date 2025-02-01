@@ -14,7 +14,9 @@ I am an IT professional with a Diploma in Network Systems, a strong foundation i
 
 🔹 Data Analysis & Presentation – Using Excel, Access, and PowerPoint for IT and business insights.
 
+
 🔧 Skills & Tools
+
 ✅ Programming: Java (Backend development & problem-solving)
 
 ✅ Cloud Expertise: Azure (Fundamentals & Administration)
@@ -23,7 +25,9 @@ I am an IT professional with a Diploma in Network Systems, a strong foundation i
 
 ✅ Project & Data Management: Business analysis, IT systems management, automation
 
+
 📜 Certifications
+
 🏆 AWS: Building a Cloud Career
 
 🏆 HNG Internship 11 – Backend & DevOps Fundamentals
@@ -32,21 +36,28 @@ I am an IT professional with a Diploma in Network Systems, a strong foundation i
 
 📌 Currently pursuing additional certifications through HNG Internship 12.
 
+
 🌱 Continuous Learning & Interests
+
 🚀 Automating security workflows for efficiency and resilience
 
 🔐 Exploring cloud-native security solutions for DevSecOps & SOC operations
 
 📊 Leveraging data-driven approaches to cybersecurity and IT strategy
 
+
 📂 Projects & GitHub Repositories
+
 🔗 HNG DevOps Stage 0 Project – Deploying a Static Web Page with NGINX on Azure
 
 🔗 More projects coming soon!
 
+
 📫 Let’s Connect!
+
 📧 Email: Phangi38@outlook.com
 
 💼 LinkedIn: linkedin.com/in/phangasasa-muhlaba-6826012b4
+
 
 🚀 Always open to collaborations, open-source contributions, and cybersecurity discussions!
