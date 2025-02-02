@@ -1,69 +1,53 @@
-👋 Hi there! I'm Phangasasa Muhlaba
-
+👋 Hi there! I’m Phangasasa Muhlaba
 💻 Cloud Security Engineer | DevSecOps Enthusiast
 
-I am an IT professional with a Diploma in Network Systems, a strong foundation in cloud security, and hands-on experience in Azure, DevSecOps, and cybersecurity. My expertise lies in securing cloud infrastructures, automating security workflows, and leveraging data analysis for informed decision-making. My long-term goal is to become a Cloud Security Architect, driving secure and scalable cloud solutions.
-
+I’m an IT professional with a Diploma in Network Systems and hands-on expertise in cloud security, Azure, DevSecOps, and cybersecurity. My passion lies in securing cloud infrastructures, automating security workflows, and leveraging data-driven insights to build resilient systems. Long-term, I aim to evolve into a Cloud Security Architect, designing secure and scalable cloud solutions.
 
 💼 Professional Focus
+🔒 Cloud Security Engineering: Securing Azure environments using industry best practices.
 
-🔹 Cloud Security Engineering – Designing and securing Azure environments using industry best practices.
+⚙️ DevSecOps: Integrating security into CI/CD pipelines for automated compliance.
 
-🔹 DevSecOps – Automating security integration in CI/CD pipelines.
+🛡️ Ethical Hacking & SOC Operations: Advanced threat detection, incident response, and 24/7 monitoring.
 
-🔹 Ethical Hacking & SOC Operations – Advanced threat detection, incident response, and security monitoring.
-
-🔹 Data Analysis & Presentation – Using Excel, Access, and PowerPoint for IT and business insights.
-
-
+📊 Data Analysis & Reporting: Translating IT and business data into actionable insights with Excel, Access, and PowerPoint.
 
 🔧 Skills & Tools
+☁️ Cloud: Azure (Fundamentals, Administration), AWS Basics
 
-✅ Programming: Java (Backend development & problem-solving)
+🖥️ Programming: Java (Backend Development & Problem-Solving)
 
-✅ Cloud Expertise: Azure (Fundamentals & Administration)
+🔐 Security: Linux, Cisco CCNA, CompTIA Security+ (Threat Management)
 
-✅ Networking & Security: Linux, Cisco (CCNA), Security+ (Threat management)
-
-✅ Project & Data Management: Business analysis, IT systems management, automation
-
-
+📈 Project Management: IT Systems Automation, Business Analysis
 
 📜 Certifications
-
 🏆 AWS: Building a Cloud Career
 
-🏆 HNG Internship 11 – Backend & DevOps Fundamentals
+🏆 HNG Internship 11: Backend & DevOps Fundamentals
 
 🏆 FMI: Introduction to Business Accounting
 
-📌 Currently pursuing additional certifications through HNG Internship 12.
+Currently pursuing HNG Internship 12 certifications
 
+🌱 Learning & Interests
+🚀 Security Automation: Streamlining workflows for efficiency and resilience.
 
+🔐 Cloud-Native Security: Exploring DevSecOps and SOC solutions.
 
-🌱 Continuous Learning & Interests
+📊 Data-Driven Cybersecurity: Aligning IT strategy with analytics.
 
-🚀 Automating security workflows for efficiency and resilience
+📂 Projects
+HNG DevOps Stage 0 Project: Deployed a static web page using NGINX on Azure.
 
-🔐 Exploring cloud-native security solutions for DevSecOps & SOC operations
+More projects coming soon!
 
-📊 Leveraging data-driven approaches to cybersecurity and IT strategy
-
-
-
-📂 Projects & GitHub Repositories
-
-🔗 HNG DevOps Stage 0 Project – Deploying a Static Web Page with NGINX on Azure
-
-🔗 More projects coming soon!
-
-
-
-📫 Let’s Connect!
-
+📫 Let’s Connect
 📧 Email: Phangi38@outlook.com
 
 💼 LinkedIn: linkedin.com/in/phangasasa-muhlaba-6826012b4
 
+🤝 Open to collaborations, open-source contributions, and cybersecurity discussions!
 
-🚀 Always open to collaborations, open-source contributions, and cybersecurity discussions!
+✨ Always Learning, Always Building
+"Security isn’t a product—it’s a process."
