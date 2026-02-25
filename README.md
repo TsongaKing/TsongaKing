@@ -1,55 +1,44 @@
-# 👋 Hi there! I’m Phangasasa Muhlaba  
-💻 **Cloud Security Engineer | DevSecOps Enthusiast**  
+👋 Hi, I’m Phangasasa Muhlaba
 
-I’m an IT professional with a **Diploma in Network Systems** and hands-on expertise in **cloud security, Azure, DevSecOps, and cybersecurity**. My passion lies in securing cloud infrastructures, automating security workflows, and leveraging data-driven insights to build resilient systems.  
-Long-term, I aim to evolve into a **Cloud Security Architect**, designing secure and scalable cloud solutions.  
+Cloud Security Engineer in Training | Azure-Focused | DevSecOps-Oriented
 
----
+I’m a Network Systems diploma candidate with a strong focus on Microsoft Azure, cloud infrastructure security, and secure deployment practices. My goal is to design and secure resilient cloud environments by applying networking principles, access control strategies, and system hardening techniques.
 
-## 💼 Professional Focus  
-🔒 **Cloud Security Engineering** – Securing Azure environments using industry best practices.  
-⚙️ **DevSecOps** – Integrating security into CI/CD pipelines for automated compliance.  
-🛡️ **Ethical Hacking & SOC Operations** – Advanced threat detection, incident response, and 24/7 monitoring.  
-📊 **Data Analysis & Reporting** – Translating IT and business data into actionable insights with **Excel, Access, and PowerPoint**.  
+I have hands-on experience deploying applications in Azure, configuring virtual machines and virtual networks, implementing network security controls, and administering Linux systems. I also build and containerize backend applications using Docker and automate deployments through CI/CD pipelines with GitHub Actions.
 
----
+My approach combines infrastructure, security fundamentals, and application awareness. I focus on understanding not only how systems function, but how they should be secured, monitored, and hardened against misconfiguration and abuse.
 
-## 🔧 Skills & Tools  
-☁️ **Cloud** – Azure (Fundamentals, Administration), AWS Basics  
-🖥️ **Programming** – Java (Backend Development & Problem-Solving)  
-🔐 **Security** – Linux, Cisco CCNA, CompTIA Security+ (Threat Management)  
-📈 **Project Management** – IT Systems Automation, Business Analysis  
+My long-term objective is to grow into a Cloud Security Architect role, designing secure, scalable, and well-governed cloud environments aligned with modern security standards.
 
----
+🔐 Current Focus Areas
 
-## 📜 Certifications  
-🏆 **AWS: Building a Cloud Career**  
-🏆 **HNG Internship 11: Backend & DevOps Fundamentals**  
-🏆 **FMI: Introduction to Business Accounting**  
-🎯 *Currently pursuing HNG Internship 12 certifications*  
+Azure Virtual Machines and Virtual Networking
 
----
+Network Security Groups and traffic restriction
 
-## 🌱 Learning & Interests  
-🚀 **Security Automation** – Streamlining workflows for efficiency and resilience.  
-🔐 **Cloud-Native Security** – Exploring DevSecOps and SOC solutions.  
-📊 **Data-Driven Cybersecurity** – Aligning IT strategy with analytics.  
+Identity and Access Management (IAM) principles
 
----
+Linux administration and system hardening fundamentals
 
-## 📂 Projects  
-🔹 **HNG DevOps Stage 0 Project** – Deployed a static web page using NGINX on Azure.  
-🔹 *More projects coming soon!*  
+Secure application deployment practices
 
----
+CI/CD automation with security considerations
 
-## 📫 Let’s Connect  
-📧 **Email:** [Phangi38@outlook.com](mailto:Phangi38@outlook.com)  
-💼 **LinkedIn:** [linkedin.com/in/phangasasa-muhlaba-6826012b4](https://linkedin.com/in/phangasasa-muhlaba-6826012b4)  
+🛠 Technical Stack
 
-🤝 *Open to collaborations, open-source contributions, and cybersecurity discussions!*  
+Azure
+Linux
+Docker
+GitHub Actions
+Java (Spring Boot)
+Python (FastAPI)
+REST APIs
+Networking Fundamentals (TCP/IP, DNS, Routing)
+Security Foundations (Security+, Ethical Hacking principles)
 
----
+I’m continuously building hands-on Azure security projects to strengthen my practical cloud security engineering skills.
 
-✨ **Always Learning, Always Building**  
-*"Security isn’t a product—it’s a process."*  
+📎 Connect with me on LinkedIn:
+https://linkedin.com/in/phangasasa-muhlaba-6826012b4
+
+Open to collaboration, cloud security discussions, and learning opportunities.
